@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Cultivation of the European cut-flower Gerbera in Bangladesh. Surprised? Don't be. A huge change has shaped like a revolution in Jhikorgachha upazila of Jessore. This area is spreading fragrance and colour to the whole nation. Flower fields have become an industry now-a-days. The region is a symbol of booming success. Farmers are cultivating Gerbera with their own experience under the greenhouses that also provoked surprise among many.
+
+There have already been 10-15 greenhouse shades. Even a year ago, Gerbera flower was being imported. Now, farmers are meeting the demand of this flower by producing it locally. That's a great news for all of us and for Bangladesh!
+
+In about the mid 80's. John Paul Paren, a Belgian who came to Bangladesh as an officer for a donor agency, tried to cultivate European flowers here. He was the first person to produce Gerbera in Bangladesh. I was so amazed with the beauty of this flower and was wondering when it will be produced in Bangladesh. You would also be amazed if you can see with your own eyes the huge colourful greenhouses here. I can proudly say that our farmers are producing these flowers with their own management, effort and creativity.
+
+The hero behind this massive revolution is Sher Ali Sardar who started flower gardening in the 80's on only 30 decimals of land. At present, the flower farming area in this region has expanded on 10000 hectares of lands. Sher Ali, the valiant farmer, spread the most colourful and profitable Gerbera flower in many farmlands of this region.
+
+I had the privilege to talk to Sher Ali about the many prospects of flower farming in Bangladesh and how it all began in Bangladesh.
+"
+            android:textSize="25sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>
+

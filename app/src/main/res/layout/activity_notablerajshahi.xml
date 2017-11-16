@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="NOTABLE RESIDENTS of RAJSHAHI"
+            android:textSize="25sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="1.Akshay Kumar Maitreya, noted Indian historian and social worker from Bengal.
+2.A.H.M Quamruzzaman, politician, National Leader and former Home Minister of Bangladesh.
+3.Ila Mitra, the leader of peasants and indigenous Santhals.
+4.Andrew Kishore, Singer
+5.Hasan Azizul Huq, Linguist, author, Story-writer.
+6.Khaled Masud Pilot, Former Captain of Bangladesh Cricket Team
+7.Mohammad Shamsuzzoha, academic, participant of Bengali Language Movement.
+8.Ritwik Ghatak
+9.Sir Jadunath Sarkar, historian
+10.Sabbir Rahman, Bangladeshi international cricketer
+11.Selina Hossain, novelist, Present Director of Bangla Academy
+12.Mrinal Haque, sculptor
+"
+            android:textSize="25sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>

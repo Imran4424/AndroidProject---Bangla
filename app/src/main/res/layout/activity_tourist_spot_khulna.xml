@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="TOURIST SPOTS of KHULNA"
+            android:textSize="25sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Sundarbans : In the south-western part of Bangladesh, in the district of greater Khulna, lies the Sundarbans (world's largest mangrove forest), the home of royal Bengal tiger. It is a virgin forest which until recently owed nothing to human endeavour and yet nature has laid it out with as much care as a planned pleasure ground. For miles and miles, the lofty treetops form an unbroken canopy, while nearer the ground, works of high and ebb-tide marked on the soil and tree trunks and the many varieties of the natural mangrove forest have much to offer to an inquisitive visitor. The Sundarbans is a UNESCO World Heritage Site.
+
+Rabindra Complex: Rabindra Complex is located in Dakkhindihi village, 19 km from Khulna city. It was the residence of Rabindranath Tagore's father-in-law; Beni Madhab Roy Chowdhury. Tagore visited this place several times in his life. Recently it has been declared as a protected archaeological site by Department of Archaeology of Bangladesh.
+
+Rupsha Bridge-It is a bridge under which the river,Rupsha flows.the bridge is obviously very attractive to see.people come here to spend the leisure time.Many families are seen to have a beautiful time.At present it is one of the beautiful places of Khulna"
+            android:textSize="20sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>
+

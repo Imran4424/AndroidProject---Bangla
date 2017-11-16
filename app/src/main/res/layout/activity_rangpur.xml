@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="(Rongpur Jela also Rongpur Zila) is a district in Northern Bangladesh. It is a part of the Rangpur Division.
+
+Under the Rangpur division (one of seven divisions) composed of eight districts of the northern Bangladesh, the District of Rangpur is bordered on the north by Nilphamari District, on the south by Gaibandha District, on the east by Kurigram, and on the west by Dinajpur district. Rangpur town is the divisional headquarter. The soil composition is mainly alluvial soil (80%) of the Teesta River basin, and the remaining is barind soil. The temperature ranges from 32 degrees Celsius to 11 degrees Celsius, and the annual rainfall averages 2931 mm.
+
+Language
+
+Rangpur is a multi-lingual district. People of Rangpur have two languages- Rangpuri and Bengali. But Rangpuri is used by most inhabitants. Bengali is more popular in the towns and among the educated people. But a small portion of Santal and other similar people also have their own languages .
+
+Demographics
+
+Total population of Rangpur is 2534365, male 50.91%, female 49.09%. Islam is the predominant religion in Rangpur. Hinduism is the second largest religion in Rangpur. Muslim 89.60%,Hindu 9.59%, . Christian 0.50% and others 0.31%; ethnic nationals: Santal and Orao.[citation needed]
+
+In an anthropological view most people of Rangpur are having Rajbagshi blood in their veins. This is true mainly for the villages which are the majority in Rangpur.
+
+The district of Rangpur have 4924 mosques, 480 churches, 43 temples and six tombs."
+            android:textSize="25sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Special food"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  famous wonders"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  tourists spots"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  points of interests"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Media"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Notable Residents"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+
+    </LinearLayout>
+    ></ScrollView>

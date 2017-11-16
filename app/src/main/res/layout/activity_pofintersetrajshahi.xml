@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="POINTS of INTEREST RAJSHAHI"
+            android:textSize="25sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="-Varendra Research Museum
+
+-Banks of the Padma River: A lovely sight of one of the largest rivers in South Asia. During the Monsoon season, the water level rises, along with its beauty.
+
+-Varendra Research Museum: Established in 1910, the museum is dedicated to ancient history and culture. It is recognised as the oldest museum in the country. It has a rich collection of artefacts, relating to Hindu, Buddhist and Muslim heritage. Some of these date back to the 16th century. It is maintained by the University, located in the heart of town.
+
+-Shrine of Hazrat Shah Makhdum(Rh.) :A Majar (shrine) was established to mark the resting place of Hazrat Shah Makhdum in 1635. He was the first preacher of Islam in the region. Legend has it that he arrived by riding down the Padma on 2 crocodiles. To preserve this myth, some crocodiles are kept in the pond next to the shrine.
+
+-Smriti Amalan - A monument at Rajshahi
+
+-Quamruzzaman Central Park and Zoo: The park is a wide area with lush green trees and grass. The zoo houses a variety of different animal species. It is located by the bank of river Padma.
+
+-Shahid Zia Park: An amusement park for pleasure. It has mono rail, bumping cars and many other exciting things for amusement. It is under the Rajshahi City Corporation.
+
+-University of Rajshahi : You must see this well-planned beautiful green campus before leaving Rajshahi. It is within a few kilometres from the city centre and easily accessible.
+
+-Shaheb Bazar : It is the centre of the city,where most of the shopping malls and commercial buildings are located.
+
+-Ghoramara : The oldest part of Rajshahi City, consisting most of oldest (70- to 100-year-old) buildings. edit
+
+-Borokuthi: In the compound of the Barakuthi there is a small cemetery with groves dating back to the years of the nineteenth century. There are 14 tombs with thirteen epitaphs within the cemetery. Here also some natural calimetari which make people enjoy for time being.
+
+-Mango round about
+
+-Upashohor: This is a planned model town. Rajshahi Cantonmentis located beside this area.
+
+-Motihar: Rajshahi University is situated in this area on large campus surrounded by mango groves that presents a panoramic view.
+
+-Kashia-Danga: From this area massive mango tree garden area of Rajshahi starts. Anyone can have a glimpse of famous mangoe's tree of Rajshahi from this area. The area is at the west part of the city, near to Rajshahi court railway station.
+
+-Santal Para : Located inside the Mahish-Bathan Area. Some santal tribes people lives here. Anyone can have a look to their tribal life"
+            android:textSize="20sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>

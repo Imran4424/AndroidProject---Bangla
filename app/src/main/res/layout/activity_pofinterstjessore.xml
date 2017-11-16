@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Point of Interest in Jessore"
+            android:textSize="25sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="-The Capital City of flower in Bangladesh, Godkhali Jhikargachha Upazila...
+
+-Katakhal Bangabandhu Park Jhikargachha Upazila...
+
+-At Abhaynagar Upazila, there is a small village called Dhoolgraam. It once had a magnificent complex of 17 Hindu temples, but only one remains today. Most of the temples were destroyed by the Bhairab River. A beautiful terracotta design can be seen all over the temple. It is considered a very holy place by Bengali Hindus.
+
+-The main gate of the house of Michael Madhusudan Dutta at Sagardari village in Jessore. This house is currently being used as a museum.
+
+-In Vaatnogor at Abhaynagar Upazila, ruins of eleven temple complex, dedicated to Lord Shiva, remains. Though the central temple is partially destroyed, the site still shows the majesty of Bengal's glorious past.
+-A terracotta plaque bearing the image of Mallinath, a female tirthankar (saint) of the Jain religion, was found at the Mound of Dam Dam Peer in Manirampur Upazila.
+
+-Mound of Dam Dam Peer in Manirampur Upazila.
+
+-It is believed to be the most ancient relic discovered from this part of the world. The Department at Khulna said that the plaque is at least 1800 years old. It is currently kept at the Khulna Museum.
+Besides, Neelkuthi at village Joypur & Kachari Ghar are important Archaeological sites in Manirampur
+
+-Near the town of Jessore is the suburb Chanchra. A Chanchra Rajbari once stood but has deteriorated. Visitors can see the Lord Shiva Temple, which is almost restored; the remains of the Dosh Mohabid-da Temple, unique in Bengal; and Jora Shiv Temple at Murali in a deteriorated condition.
+Imam Bara, at Murolir Mor beside the Dhaka-Khulna Highway, is a historical building constructed by Hazi Muhammad Mohsin.
+
+-The Jessore Collectorate Building, in Doratana, is one of the oldest buildings in Jessore.
+
+-Shaagordaari is the birthplace of the poet Michael Madhusudan Dutta. His large villa consists of a huge garden, a small museum and houses. The front gate has a solid sculpture work. The Kopotak-kho River is at a stone's throw away.
+Near Jessore Sadar Upazila village Hamidpur has an ancient mosque, known as Shani mosque. It is an example of the high architecture of Muslim Sultani period.
+
+-Godkhali kalibari
+
+-Panchpukur Baganchara
+
+-Binodia Park
+
+-Jessore Boat-club
+
+-Jess-garden Park
+
+-Rajgong Baor
+
+-Vobodaho Bil
+
+-Gazir Dorgah
+
+-Jessore Airport, Jessore Cantonment and Air Force Base Matiur Rahman.
+
+-India's daul at Kesobpur
+
+-Khanjalir Dighi
+
+-Mirzanagar Hammamkhana
+
+-Avaynogor's Khanjahan Ali Jame Mosque
+
+-Jamidar Bari at Shridhorpur
+
+-Konnadah Archajjo Baor at Sarsha
+
+-Benapole port
+
+-Fakhir Tika at Godkhali
+
+-Shimulia Mission (Saheb Bari)
+
+-Grave of Birshrestho Lance Nayek Noor Muhammad Sheikh"
+            android:textSize="20sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Khulna (Bengali: খুলনা ) is the third-largest city in Bangladesh. It is the administrative seat of Khulna District and Khulna Division. As of the 2011 census, the city has a population of 663,342.
+
+Khulna is an old river port located on the Rupsha River. It is an important hub of Bangladeshi industry and hosts many national companies. It is served by Port of Mongla, the second largest seaport in the country. It is also one of the two principal naval command centres of the Bangladesh Navy.
+
+A colonial steamboat service, including the fleet Tern, Osrich and Lepcha, continues to operate on the river route to the city. It is regarded as the gateway to the Sundarbans, the world's largest tidal forest and home of the Bengal tiger. Khulna is also situated north of the Historic Mosque City of Bagerhat, a UNESCO World Heritage Site
+Khulna is the 4th largest city after Dhaka , Chittagong and Rajshahi . Khulna is located in south-western Bangladesh at 22°49′0″N 89°33′0″E, on the banks of the Rupsha and Bhairab river. It covers a total area of 59.57 km2, while the district itself is about 4394.46 km2. It lies south of Jessore and Narail, East of Satkhira, West of Bagerhat and North of the Bay of Bengal. It is part of the largest delta in the world. In the southern part of the delta lies the Sundarban, the world's largest mangrove forest. The city of Khulna is in the northern part of the district, and is mainly an expansion of trade centres close to the Rupsha and Bhairab rivers. The Mayur River forms the western boundary of the metropolitan area.
+Climate
+
+Khulna is humid during summer and pleasant in winter. Khulna has an annual average temperature of 26.3 °C (79.3 °F) and monthly means varying between 12.4 °C (54.3 °F) in January and 34.3 °C (93.7 °F) in May. Annual average rainfall of Khulna is 1,809.4 millimetres (71.24 in). Approximately 87% of the annual average rainfall occurs between May and October.
+
+Economy
+
+Khulna is the third largest economic centre in Bangladesh. It is situated north of the Port of Mongla and has various heavy and light industries. The major sectors are jute, chemicals, fish and seafood packaging, food processing, sugar mills, power generation and shipbuilding. The region has an Export Processing Zone which has attracted substantial foreign investment. The city is home to the corporate branch offices of numerous national companies, including among others, M. M. Ispahani Limited, Beximco, James Finlay Bangladesh, Summit Power and the Abul Khair Group. Some of the largest companies based in the city include Khulna Shipyards, Bangladesh Oxygen, Platinum Jubilee Mills, Star Jute Mills and the Khulna Oxygen Company."
+            android:textSize="25sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Special food"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  famous wonders"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  tourists spots"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Media"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Notable Residents"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+
+    </LinearLayout>
+    ></ScrollView>

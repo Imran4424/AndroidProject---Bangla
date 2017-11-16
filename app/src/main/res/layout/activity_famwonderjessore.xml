@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Wonders of Jessore"
+            android:textSize="25sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="The city of Jessore, Bangladesh is located in the southwestern side of Bangladesh, under the Khulna administrative division. Jessore is situated in Bhairab with a total population of 2,440,693. Jessore is the first independent district of Bangladesh, established in 1781. It has 4 municipalities and 1,434 villages.
+
+Many tourists will enjoy the many archaeological relics here. In addition, Jessore is also famous for its textile industry, agricultural products, particularly a date sugar called ‘Patali’, known all over Bangladesh and outside the country.
+
+Take your time and enjoy Jessore. There is more to this city than meets the eye.
+
+Things to See, Places to Visit
+
+• Abhaynagar Thana – Centuries ago, it used to be a magnificent temple complex. There used to be 17 breathtaking temples, but now only 1 stands there. Most of the temples were wiped out, submerged in the Bhairab River. The remaining temple is ornate with beautiful terracotta designs, a must see.
+• Bhatnagar – here you can visit the ruins of the once 11 temple complex. All temples were dedicated to the lord Shiv. Despite the fact that they are already in ruins, you can still see and feel the majesty and glory it once was.
+• Jessore Collectret Building – the most famous and oldest building in Jessore, located at Daratana.
+• Bijo 71 – a 35 inch sculpture by Khondor Badrul Islam. You can check it out at the entrance to the town. The sculpture commemorates the casualties of the Bangladesh War of Liberation.
+• Jessore Institute Public Library – the nation’s largest and oldest library, established at year 1851. The library boasts more than 100,000 books, as well as a large collection of ancient manuscripts, journals and newspapers.
+• Khan Jahan Ali – if you want to unwind and enjoy life easily for awhile, head on to Khan Jahan Ali. It is an ancient pond and favorite picnic spot among locals. It is located near Murali Mor.
+
+Jessore Transportation and Getting Around
+
+Jessore has highways for transportation to and from India and Bangladesh. You can also reach Jessore through train, via the Western Bangladesh Railway, whose network extends into the whole Indian territory.
+
+You can also reach Jessore via plane. The Jessore airport is located near Jessore city where commercial airlines like Royal Bengal Airlines, Best Air and GMG are available for domestic flights.
+
+Jessore is pretty small and you can get around the city fairly easy on foot. Cycle rickshaws are a-plenty, so you can ride one if you don’t feel like walking."
+            android:textSize="20sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>

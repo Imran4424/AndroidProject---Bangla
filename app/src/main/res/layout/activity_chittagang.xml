@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Chittagong /tʃɪtəɡɒŋ/ (Bengali: চট্টগ্রাম Bengali pronunciation: [tʃɔt̠t̠ɔgram], Chatga) is a major coastal seaport city and financial centre in southeastern Bangladesh. The city has a population of more than 2.5 million[1] while the metropolitan area has a population of over 6.5 million,[5] making it the second largest city in the country. It is the capital of an eponymous district and division. The city is located on the banks of the Karnaphuli River between the Chittagong Hill Tracts and the Bay of Bengal. Much of Chittagong Division is located within the ecological Indo-Burma zone on the boundary of the India Plate and Burma Plate. This makes Chittagong the crossroads of the Indian subcontinent and Southeast Asia. The port city has been known by various names in history, including Chatigaon, Chatigam, Chattagrama, Islamabad, Chattala, Chaityabhumi and Porto Grande De Bengala.
+The natural harbour of Chittagong is an ancient gateway to the region of Bengal. It was noted as one of the largest Eastern ports by the Roman geographer Ptolemy in the 1st century. As part of the rich seafaring tradition of the Bengali people, coastal Chittagong was settled and ruled by Indian and Bengali kingdoms. Arab traders saw well-developed currency, banking and shipping in Chittagong during the 9th century. Early cosmopolitan Muslims established dominance over the port as an entrepot of maritime trade.
+
+Geography:
+Chittagong lies at 22°22′0″N 91°48′0″E. It straddles the coastal foothills of the Chittagong Hill Tracts in southeastern Bangladesh. The Karnaphuli River runs along the southern banks of the city, including its central business district. The river enters the Bay of Bengal in an estuary located 12 kilometres (7.5 mi) west of downtown Chittagong. Mount Sitakunda is the highest peak in Chittagong District, with an elevation of 351 metres (1,152 ft). Within the city itself, the highest peak is Batali Hill at 85.3 metres (280 ft). Chittagong has many lakes that were created under Mughal rule. In 1924, an engineering team of the Assam Bengal Railway established the Foy's Lake.
+
+Climate
+
+Under the Köppen climate classification, Chittagong has a tropical monsoon climate (Am).
+
+Chittagong suffered its deadliest cyclone in 1991; it killed 138,000 people and left as many as 10 million homeless"
+            android:textSize="25sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  capital City of ports"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Special food"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  famous wonders"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  tourists spots"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  points of interests"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Media"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Notable Residents"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+
+    </LinearLayout>
+    ></ScrollView>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+         <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+         <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="Local newspapers and magazines"
+                android:textSize="35sp"
+                android:textColor="#BDBDBD"
+                android:background="#455a64"
+                />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="List of daily newspapers
+
+         -Daily Kalyan
+         -Daily Purobi
+         -Daily Deshitaishy
+         -Daily Sfulingo
+         -Daily Jessore
+         -Daily Loksamaj
+         -Daily Gramer kagoj
+         -Daily Pravat Feri
+         -Daily Samajer Kagoj
+         -Daily Spandan
+         -Daily Ranar
+         -Daily Samajer Katha
+         -Daily Gramer Kantha
+         -Daily Telegram
+         -Daily Satya Path
+
+List of weekly magazines
+
+         -Weekly Sonali Din
+         -Weekly Nawapara
+         -Weekly Banglalok
+         -Weekly Manabadhikar Sangbad
+         -Weekly Bojro kolom
+         -Weekly Sharsha Barta
+         -Weekly Prattohiki
+         -Weekly Ganomanos
+
+List of Fortnightly
+
+         -Mot-Motantar
+
+List of monthly magazines
+
+         -Monthly Ghumonter Dak
+         -Monthly Gramer Sangbad
+         -Monthly Photo Report
+
+List of literary magazines
+
+         -Bangla Literature edited by Sayeed Abubakar"
+                    android:textSize="25sp"
+                    android:textColor="#fff59d"
+                    android:background="#455a64"
+                    />
+
+    </LinearLayout>
+    ></ScrollView>

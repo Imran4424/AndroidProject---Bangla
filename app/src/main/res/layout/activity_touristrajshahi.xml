@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="TOURIST SPOTS of RAJSHAHI"
+            android:textSize="25sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Rajshahi Tourist Spots are Puthia Temple, Godagari Royal Palace and more. Mainly this town is known as education city. Rajshahi, one of the oldest city of Bangladesh is full scenic beauty and historical background. It is the western metropolitan city and the main center of Rajshahi division.
+
+“Rajshahi” this word comes from two different forms. One is Rajas (from Hindu Maharajas and zamindars), and other is personalized, Shahi. These two words hold up the meaning “Kingdom”.In 1991, this big city was named as the City Corporation.
+
+Rajshahi is about 2407 square kilometers in area dimension, and the big river Padma flows southern side of this city. Naogaon rounds the city to the north, Natore to the east and Chapai Nawabganj to the south. Some other rivers also flow across this metropolitan city named as Mahananda, Baral and Barnai rivers.This city has about 2.3 million people living on the land.
+
+This district is divided into nine sub-districts/Upazilas. These are Bagha, Baghmara, Charghat, Durgapur, Godagari, Mohanpur, Paba, Puthia and Tanore. This city is known as “Silk City” because of large production of Resham (silk), and the National Silk Board is situated here.
+
+Rajshahi city is full of interesting places and tourists spots. Every year lots of tourists come to visit these exciting places. Some of the Rajshahi Tourist Spots are:
+
+    -Bagha Mosque
+    -Bagdhani Mosque
+    -Bara Kuthi
+    -Bhuban Mohan parks Captain Mansoor Ali Park
+    -Borendra Museum
+    -Cadet College
+    -Dolmancha (Putia)
+    -Godagari Royal Palace
+    -Govinda Mandir
+    -Gopal Mandir
+    -Graveyard of Mirza Alikuli Beg
+    -Hazrat Shah Sultan Bagdhani Mosque (Paba Upazila)
+    -Jami Mosque (Tanore Upazila)
+    -Kismat Madina Mosque
+    -New Govt. Degree College
+    -Porsha Royal Palace
+    -Puthia Temple Complex
+    -Puthia Rajbari Complex – Rajbari was built in 1895 for Rani Hemanta Kumari.Lashkarpur Degree College uses the place.
+    -Rajshahi Sugar Mills
+    -Rajshahi Medical College
+    -RU University
+    -Sarda Police Training Center
+    -Shahid Qumruzzaman central park
+    -Silk Industry
+    -University of Engineering & Technology
+    -Talando Shiva Mandir (1860), Rajbari,
+    -Tomb of Hazrat Shah Makhdum (R)
+    -Tomb (Mazar) of Hazrat Shah Sultan (Godagari Upazila)
+    -One domed Ruipara (Durgapur) Jami Mosque (sixteenth century)
+    -Two domed Kismat Madia Mosque (eighteenth century),
+    -Three domed Bhagna Jami Mosque at Tanore Upazila (1223 AH )
+ "
+            android:textSize="20sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>

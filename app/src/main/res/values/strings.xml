@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IntroductionToBangladesh</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_activity_residentalfoodjessore">ActivityResidentalfoodjessore
+    </string>
+    <string name="title_activity_activity_jessore_resident_food">ActivityJessoreResidentFood
+    </string>
+    <string name="title_activity_activity_famous_wonders_rajshahi">ActivityFamousWondersRajshahi
+    </string>
+    <string name="title_activity_activity_food_rajshahi">ActivityFoodRajshahi</string>
+    <string name="title_activity_activity_fame_gained_food_rajshahi">
+        ActivityFameGainedFoodRajshahi
+    </string>
+    <string name="title_activity_rajshahi__resident__food">Rajshahi_Resident_Food</string>
+    <string name="title_activity_notable_residents_khulna">NotableResidentsKhulna</string>
+    <string name="title_activity_media_khulna">MediaKhulna</string>
+    <string name="title_activity_tourist_spot_khulna">TouristSpotKhulna</string>
+    <string name="title_activity_famous_wonders_khulna">FamousWondersKhulna</string>
+    <string name="title_activity_food_khulna">FoodKhulna</string>
+    <string name="title_activity_fame_gained_food_khulna">FameGainedFoodKhulna</string>
+    <string name="title_activity_khulna_resident_food">KhulnaResidentFood</string>
+</resources>

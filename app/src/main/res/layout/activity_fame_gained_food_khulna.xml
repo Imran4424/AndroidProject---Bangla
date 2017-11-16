@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Famous foods of Khulna"
+            android:textSize="30sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Nolen Gur Shandesh"
+            android:textSize="27sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Khulna's Nolen gurer Shadesh is quite famous through the country.  Nolen gurer sandesh, which is made with gur or jaggery. It is known for its brown or caramel colour that comes from nolen gur. It is a filter made from rice flower and palm sugar."
+
+            android:textSize="28sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text=""
+            android:textSize="23sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text=""
+            android:textSize="28sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"/>
+
+    </LinearLayout>
+    ></ScrollView>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="HOME MADE FAVOURITE FOOD"
+            android:textSize="30sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="NARKEL MURGI"
+            android:textSize="23sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Ingredients :
+        - 2 chickens
+        - sliced onoion
+        - ginger
+        - garlic
+        - cumin
+        - coriander
+        - dry red chilli powder
+        - oil
+        - coconut slices
+Process to cook:
+    Slice the chicken and rinse it. Heat quantity amount of oil and then put the chicken pieces into the oil. Stir the chicken for some times. Then coat/smear the chicken with quantity amount of salt and other listed spices. Then put the chikhen into the cooking pot. After less then ten minute put some water into the chicken for perfectly boiling/cooking it. Then slower the flame of the stove a little. After the water decays then put the coconut pieces. Thus you get your dish ready.   "
+
+            android:textSize="28sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+
+    </LinearLayout>
+    ></ScrollView>

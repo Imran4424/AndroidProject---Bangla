@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Famous foods of Jessore"
+            android:textSize="30sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="JESSORE JAMTOLA ROSGULLA"
+            android:textSize="23sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Jessore's Jamtola Rasgulla is famous in both in the country and outside of it. Which is also named SADEK GOLLA. In this long 61 year's history abd tradition it still continues to hold it's perfection and excellence.Every day more than thousand of this sweet is produced but before noon all this sweets are sold out. Jessore-Shatkhira road's a small Bazar Jamtola but only because of it's sweets it bacame famous throughout the world.
+
+It is situated 38 kilometers away from Jessore city. Most of the Presidents of the country has tried out this sweet. Foreighner guests have also praised eating this sweet. Jamtola's Misty is only created in Jamtola. Expatriate Bangladeshi;s have also tried to produce this sweet but they eventually failed. It needs homespun cow milk, flourished standered suger and number one wood for firewood are the main elements for producing this sweet."
+
+            android:textSize="28sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="JESSORE DATE MOLASSES and CAKES"
+            android:textSize="23sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Jessore heritage is intertwined seamlessly with locally produced date molasses. The incomparable taste and smell of it never changes through still this time. This molasses of ancient times is still famous in both home and abroad.At present the amount of syrup produced in Jessore is around 3700200 kg. Fall and winter arrive with date molasses and juice surfeit of making cakes. "
+            android:textSize="28sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"/>
+
+    </LinearLayout>
+    ></ScrollView>
+

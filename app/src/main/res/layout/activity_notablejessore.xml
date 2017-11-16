@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="NOTABLE RESIDENTS of JESSORE"
+            android:textSize="25sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="1.Haridasa Thakur - great Vaisnava Saint, acarya of the Holy Name.
+2.Michael Madhusudan Datta – poet and dramatist;
+3.Mashiur Rahman – politician of the Awami League;
+4.Mahendra Lal Bose – philanthropist and educationist;
+5.Mashrafe Mortaza, cricketer, Bangladesh cricket team;
+6.Munshi Mohammad Meherullah- Muslim poet, religious leader and social reformer ;
+7.Syed Rasel, cricketer, Bangladesh cricket team;
+8.Bobita, actress;
+9.Suvra Mukherjee- former first lady of India, wife of President Pranab Mukherjee"
+            android:textSize="25sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.goodgirl.introductiontobangladesh" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ActivityResidentalfoodjessore"
+            android:label="@string/title_activity_activity_residentalfoodjessore" >
+        </activity>
+        <activity
+            android:name=".ActivityJessoreResidentFood"
+            android:label="@string/title_activity_activity_jessore_resident_food" >
+        </activity>
+        <activity
+            android:name=".ActivityFamousWondersRajshahi"
+            android:label="@string/title_activity_activity_famous_wonders_rajshahi" >
+        </activity>
+        <activity
+            android:name=".ActivityFoodRajshahi"
+            android:label="@string/title_activity_activity_food_rajshahi" >
+        </activity>
+        <activity
+            android:name=".ActivityFameGainedFoodRajshahi"
+            android:label="@string/title_activity_activity_fame_gained_food_rajshahi" >
+        </activity>
+        <activity
+            android:name=".Rajshahi_Resident_Food"
+            android:label="@string/title_activity_rajshahi__resident__food" >
+        </activity>
+        <activity
+            android:name=".NotableResidentsKhulna"
+            android:label="@string/title_activity_notable_residents_khulna" >
+        </activity>
+        <activity
+            android:name=".MediaKhulna"
+            android:label="@string/title_activity_media_khulna" >
+        </activity>
+        <activity
+            android:name=".TouristSpotKhulna"
+            android:label="@string/title_activity_tourist_spot_khulna" >
+        </activity>
+        <activity
+            android:name=".FamousWondersKhulna"
+            android:label="@string/title_activity_famous_wonders_khulna" >
+        </activity>
+        <activity
+            android:name=".FoodKhulna"
+            android:label="@string/title_activity_food_khulna" >
+        </activity>
+        <activity
+            android:name=".FameGainedFoodKhulna"
+            android:label="@string/title_activity_fame_gained_food_khulna" >
+        </activity>
+        <activity
+            android:name=".KhulnaResidentFood"
+            android:label="@string/title_activity_khulna_resident_food" >
+        </activity>
+    </application>
+
+</manifest>

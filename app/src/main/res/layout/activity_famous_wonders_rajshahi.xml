@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Wonders of Rajshahi"
+            android:textSize="25sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Rajshahi, Bangladesh is the capital city in the Rajshahi District, located in northwestern Bangladesh. It is located in the northern banks of river Padma or Ganges. The city has a total population of about 700,000 only.
+
+It is said that Rajshahi is one of the most peaceful areas in Bangladesh and the happiest city in the world. It is also referred to as ‘education city’, because of its many educational establishments. Aside from that, it is also known for its pure silk, lichi and mango. Aside from its famous mango orchards and river beaches, its silk products are known for their unique designs and affordability. In fact, the city is often referred to as ‘silk city’.
+
+Rajshahi is formerly known as Rampur Boalia. The town was of great importance during the 1800s when the East India Company established its administrative headquarters. The city was one of the first municipalities in Bangladesh, established in the year 1876.
+
+Tourist Spots and Attractions
+
+    -The River Side – take things easy and enjoy some sight seeing by the banks of the River Padma. During rainy season, the water comes up and will look just wonderful.
+    -Chhoto Sona Mosque – built during the Sultanate period, the Chhoto Sona Mosque or Small Golden Mosque was built by Wali Muhammad during Sultan Alauddin Husain Shah’s reign. It includes 15 gold gilded domes plus 3 Chauchala domes.
+    -Ghoramara – the oldest part of Rajshahi. Most of the buildings are 70 to 100 years old!
+    -Rajshahi University – a beautiful and green campus, within a few kilometers from the city.
+    -Varendra Research Museum – contains a rich collection of ancient artifacts of Mohenjo-Daro as well as those of the 16th to 19th century.
+    -Santal Para – where you can visit the Santal tribes, interact with them, and have a look into their everyday tribal life.
+    -Shrine of Hazrat Shah Mokhdum – here is where the grave of the first Islam preacher in Rajshahi region. Legend has it that Hazrat Shah Mokhdum came to Rajshahi through the Padma River whilst riding two crocodiles.
+    -Shahid Zia Park – an amusement park which has a monorail, bumping cars, and other fun rides and entertainment.
+    -Bagha Mosque – historical mosque that is illustrated in the 50 TK note. The mosque is situated in Bagha, Rajshahi.
+    -Kashia Danga – a massive mango tree garden. Better check this place to catch a glimpse of the famous mango trees of Rajshahi.
+"
+            android:textSize="20sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>
+

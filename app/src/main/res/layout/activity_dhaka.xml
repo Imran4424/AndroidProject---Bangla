@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Dhaka (Bengali: ঢাকা, pronounced: [ɖʱaka]; English /dɑːkɑː/ DAH-kah, /dɑːkə/ DAH-kuh, or /dækə/ DACK-uh) is the capital and largest city of Bangladesh. It is one of the world's most populated cities, with a population of 17 million people in the Greater Dhaka Area. It is also 3rd densely populated city in the world. Located in an eponymous district and division, it lies along the east bank of the Buriganga River in the heart of the Bengal delta. The city is a microcosm of the entire country, with diverse religious and ethnic communities. Dhaka is the economic, cultural and political centre of Bangladesh. Its name was romanised as Dacca until the current spelling was adopted in 1983.[7] It is the largest city in the Bengal region. It is also a major city of South Asia and among the OIC states.
+
+The old city of Dhaka was the Mughal capital of Bengal.[8] The city's name was Jahangir Nagar (City of Jahangir) in the 17th century. It was a cosmopolitan commercial centre and the hub of the worldwide muslin and silk trade. The city hosted two important caravansaries of the subcontinent: the Bara Katra and Choto Katra, located on the riverfront of the Buriganga. The Mughals decorated the city with well-laid out gardens, tombs, mosques, palaces and forts. Dhaka became known as the City of Mosques in Bengal. It was also described as the Venice of the East. The old city was home to various Eurasian merchant groups. At the height of its medieval glory, Dhaka was regarded as one of the wealthiest and most prosperous cities in the world. It was central to the economy of Mughal Bengal, which generated 50% of Mughal GDP
+Modern Dhaka developed from the late 19th century under the British Raj. Between 1905 and 1912, it was the capital of British Eastern Bengal and Assam. In 1947, after the Partition of British India, it became the administrative capital of the eastern wing of Pakistan. It was declared as the legislative capital of Pakistan in 1962. In 1971, it became the capital of an independent Bangladesh.
+Dhaka is home to thousands of Bangladeshi businesses and the offices of many international corporations. The Dhaka Stock Exchange is one of the largest in South Asia in terms of trading volume and market capitalization.
+
+The city is home to a number of regional and international development organizations, including the permanent secretariat of BIMSTEC. It hosts several major arts festivals, including the annual Ekushey Book Fair, the Dhaka Literature Festival and the biannual Dhaka Art Summit. The city has the largest number of cycle rickshaws and is known as the Rickshaw Capital of the World. Dhaka's highly popular cuisine features distinctive biryanis, kebabs and bakarkhanis as a legacy of its rule by the Mughals and the Nawabs of Dhaka
+
+Economy
+
+Dhaka is the economic and business centre of the country. The city's diverse economy registered a gross municipal GDP of US$85 billion (PPP) in 2008. Dhaka is one of the fastest growing startup hubs in the world.[63] The city is the seat of the country's central bank Bangladesh Bank and the Dhaka Stock Exchange. It has one of the largest concentrations of multinational companies in South Asia. Motijheel & Dilkusha is the main business district of the city. Commercial offices are also located at Kawran Bazar, Mohakhali, Gulshan, and Banani area of the city. Education, healthcare, engineering and consultancy services are major sectors of city's economy. Administrative and security services are also concentrated in the city, due to numerous institutions of the Government of Bangladesh."
+            android:textSize="20sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  capital City"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        android:text="  Special food"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        android:textColor="#E0E0E0"
+        android:background="#455a64"
+        android:id="@+id/stop"/>
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  famous wonders"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  tourists spots"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  points of interests"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Media"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Notable Residents"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+
+    </LinearLayout>

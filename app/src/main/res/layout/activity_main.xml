@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1"
+        android:id="@+id/">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="People's Republic of Bangladesh (Gônôprôjatôntri Bangladesh), is a country in South Asia. It shares land borders with India and Myanmar (Burma). Nepal, Bhutan and China are located near Bangladesh but do not share a border with it. The country's maritime territory in the Bay of Bengal is roughly equal to the size of its land area. Bangladesh is the world's eighth most populous country. Dhaka is its capital and largest city, followed by Chittagong which has the country's largest port. Straddling the Tropic of Cancer, Bangladesh's climate is tropical with a mild winter from October to March, and a hot, humid summer from March to June. The country has never recorded an air temperature below 0 °C (32 °F), with a record low of 1.1 °C (34.0 °F) in the north west city of Dinajpur on 3 February 1905. A warm and humid monsoon season lasts from June to October and supplies most of the country's rainfall. Natural calamities, such as floods, tropical cyclones, tornadoes, and tidal bores occur almost every year, combined with the effects of deforestation, soil degradation and erosio
+            Bangladesh is divided into eight administrative divisions, each named after their respective divisional headquarters: Barisal, Chittagong, Dhaka, Khulna, Mymensingh, Rajshahi, Sylhet and Rangpur.
+
+Divisions are subdivided into districts (zila). There are 64 districts in Bangladesh, each further subdivided into upazila (subdistricts) or thana."
+            android:textSize="25sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  1.   Khulna"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/state"
+            />
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  2.   Jessore."
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"
+            />
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  3.   Rajshahi"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"
+            />
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  4.   Dhaka"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"
+            />
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  5.   Chittagong"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"
+            />
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   6.  Noakhali"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"
+            />
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  7.   Sylhet"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"
+            />
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  8.    Rangpur"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"
+            />
+
+
+    </LinearLayout>
+    ></ScrollView>

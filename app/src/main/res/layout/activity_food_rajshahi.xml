@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Foods of Rajshahi"
+            android:textSize="35sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Rajshahi have quite a great record of fame for it's mango throughout the country. Rajshahi also have some local homemade food which is famous among the residents of the Rajshahi.  "
+            android:textSize="23sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+        <Button
+            android:layout_weight="0.1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="fame gained food of Rajshahi"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            />
+        <Button
+            android:layout_weight="0.1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  rajshahi's residents fovurite home made food"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+    </LinearLayout>
+    ></ScrollView>

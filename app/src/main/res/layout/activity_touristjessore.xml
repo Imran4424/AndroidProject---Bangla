@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="tourism of Jessore"
+            android:textSize="25sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Jessore is fairly small and navigable on foot, though it's layout is a bit random and you'll be asking lots of directions from friendly folks happily willing to point a finger in any direction (including the wrong one).
+
+Cycle-rickshaws are plentiful. From town to the Khulna-bound bus stop should cost Tk 5.
+See
+
+There isn't really much to see, aside from a a couple of small and ordinary mosques. Stroll around to see the town itself and you'll likely make a couple of friends.
+
+    Bijoy '71 is a 35' high sculpture by Khondoker Badrul Islam at the entrance to town, dedicated to the casualties of the Bangladesh War of Liberation at Palbari.
+
+    Jessore Institute Public Library is the nation's oldest and largest, established in 1851. The collection contains over 100 thousand books, and a large number of manuscripts, journals and newspapers.
+
+    Micheal Modhushudhon Dutta's birthplace and home - now a museum dedicated to his life.
+
+    Dihi Union Public Library [DUPL] is the first union-based public library in Bangladesh. Established on 30 November, 1977 at Pakshia Bazar, under Sarsa in Jessore. DUPL is only 55 km west to Jessore connected by metalled roards. Apart from its very rich collection of books, it has a rich Arboritum.
+
+    DUPL Arboritum where various species of plants are being collected, about 20km north of Benapole.
+
+    Bornali kha, Kazi para, ☎ 042161662.
+
+Do
+
+    Play Golf! If you can befriend one of the numerous army officers that populate Jessore cantonment, you'll get a chance to play on a 9-hole golf course. No need to bring your own equipment, though it will cost you some. You can visit airport localy known as runway it's realy nice. you can take a tour at binodia park, at jess gerden park, at boat club, at newtown park and lake those all are just beside of main town.
+
+Buy
+
+In this city you find 2 shoping complex jess tower & city plaza beside shoping complex you can buy from bazar(market) like boro bazar, collectry market etc. From those market you can buy cloths,food,utility etc.
+Eat
+
+    Rose Garden Chinese restaurant, across from the Hotel Mid-Town on MK Rd in a shopping complex. It's slightly hard to see (look up for the sign) but serves great Chinese food, including a non-greasy and tasty vegetable chowmein for Tk100.
+
+    New Noori Hotel is about 50 meters west of Rose Garden, and is a great and popular place for local food. A feast of fish, rice, spinach, potato curry, dal and dessert will cost around Tk40.
+
+---you can get chatpoti by 25 tk at doratana point.
+Drink
+
+In Jessore you'll find many cafes....On of them Carees Food Center,Day Light,Owesis are the betteer.....
+Sleep
+
+    Hotel Mid-Town, was a great budget hotel but now it's closed.
+
+    Banchte Shekha is a charity which does a lot of worthwhile work in Bangladesh and also offers rooms to travelers in its large Jessore base. You get to dine with the staff of the charity including sometimes its founder, Ramon Magsaysay Award (Asia Nobel prize) winner Angela Gomes. See http://www.banchteshekha.org/
+
+    Grand Hotel is another cheapy nearby, and RS International and Hotel Magpie are slightly nicer, also on MK Rd.
+
+    hotel hasan is nice as like as 3 star hotel at maike potty.
+
+    Hotel Nayan, ☎ +88042166535, +88042164107 (hotelnayan@hotmail.com). A budget hotel near Chowrasta. A rickshaw from Jessore terminal bus stop will charge 30Tk to the place. Single room of 280Tk with TV, is a good deal. AC rooms are 800Tk.
+
+Contact
+
+    City Cyber Cafe, across from the post office, charges Tk20/hour for a medium speed connection.
+
+Get out
+
+    Tagore Lodge, near Kushtia, is the site of the home of the late great writer Rabindranath Tagore. A bus from Jessore should take around 3 hours.
+
+Shagardarhi in Avoynagar,a subdistrick of Jessore there the home of bangaly poet Michael Modhusudan Dutt.The house is situated at the bank of Kapataksha river.
+
+    Naldanga Temple Complex, in Kaliganj upazilla in jhenaidah district. it is a temple complex built in 1656 by Maharaj Indranarayan Debroy. there are all total 6 temples now. Goverment restored all of them in 80's. but was destroyed again at the communial riot. now most of them are in ruins. renewvation in still going on. the idol of goddess Kali was made from Banaras, India. buses to kaliganj is very available from jessore. from kaliganj naldanga can be gone by rickshaw.
+
+    The biggest banyan tree in the world is situated in this district. one can go there by rickshaw or other human hauler from kaliganj
+
+    The Juganath temple dated back at 17th century is also in Kaliganj. it can be gone from Naldanga
+
+    At Sheikhati visit an old Tamal tree (Diospyrus cordifolia) in front of Shafiar Rahman High School on the bank of the Bhairab. Tamal is a sacred tree to the Hindus.
+
+    At Abhaynagar thana, there is a small village dhulgram. here once a magnificent temple complex was. 17 temples were there. now only one is standing. beautiful terracota design can be seen all over the temple. its very holy place. you can see the remains of some temple still now. most of the temples in the complex was submerged in the Bhairab river which flows by complex. u can go there by bus. from jessore we can go to abhaynagar by bus. from abhaynagar u can take van or we can use local human hauler to reach dhulgram.
+
+    at Bhatnagar in abhaynagar upazilla there is an ruins of 11 temple complex. here are 11 temples. all are dedicated to lord Shiv. the central temple is half broken. one should take a look at this place to feel the majesty of glorious past of bengal
+
+    Near jessore town, there is Chanchra. here was once chanchra rajbari. it is completely ruined now. but one can see the Shiv temple, which is almost restored; the ruined Dosh Mahabidya temple, which is only piece in bangladesh and jora shiv temple at murali in almost ruined condition"
+            android:textSize="20sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>

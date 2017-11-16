@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Famous foods of Rajshahi"
+            android:textSize="30sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Monges of Rajshahi"
+            android:textSize="23sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Rajshahi is fomous for it's mangoes. The quality, quantity and amount of mongroes produced by rajshahi can't be matched by the other region's of the country. Rajshahi has different types of mangoes such as Fazli, himshagor, langra, gopalvog, lokkhonvog, amropali, ashina, bel, arjam etc.
+
+Langra is known as the king of the mangoes. It's really juicy with much sweetness. It's sweetness in average is about 19.7%. It's really thin. It's average weight is 314.1 gram. Langra is not only famous in the country but also outside of it.
+
+After the king of mangoes Langra Himshagor has gained the second position. It's size is around round and weight is about 150 to 500 gram. Rajshahi and it's nearby people call it Kirshapat. But in Dhaka people recognise it as Himshagor
+
+Fazli is an mango cultivar from the Eastern regions of South Asia (Bangladesh, and West Bengal and Bihar in India). It is a late maturing fruit, available after other varieties. Fazlis are commonly used in jams and pickles in South Asian cuisine. Each mango can be quite large, going up to a kilo. The northern area of Bangladesh, Rajshahi and Chapainawabganj districts are the major producers of fazli. Fazli mango is one of the famous mangoes in Bangladesh.
+It's size is usually big and weight is about 400 to 1000 gram. This mango is long and skate. This fruit is really juicy, sweat in taste, tasty and have a great sweat fragrance.
+
+"
+
+            android:textSize="28sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text=""
+            android:textSize="23sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text=""
+            android:textSize="28sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"/>
+
+    </LinearLayout>
+    ></ScrollView>

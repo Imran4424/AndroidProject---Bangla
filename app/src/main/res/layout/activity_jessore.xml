@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Jessore is a district in the southwestern region of Bangladesh. It is bordered by India to the west, Khulna District and Satkhira District to the south, Magura and Narail to the east, and Jhenaidah District to the north. The district produces a variety of crops year-round. Date sugar, called patali, is made from the sap of locally grown date trees. It is cooked, thickened and crystallised using a traditional method. Patali is mainly produced in Khajura, but many date trees are cultivated in the Keshabpur Upazila and Manirampur Upazila areas. Jessore (town) is the capital of the district.
+
+Jessore district was established in 1781. It consists of 4 municipalities, 36 wards, 8 upazilas, 92 unions, 1329 mouzas, 1434 villages and 120 mahallas. Upazilas are Abhaynagar Upazila, Bagherpara Upazila, Chaugachha Upazila, Jessore Sadar Upazila, Jhikargachha Upazila, Keshabpur Upazila, Manirampur Upazila, and Sharsha Upazila
+Jessore District encompasses 2606.98 km². It is bounded by Jhenaidaha and Magura districts at the north, Satkhira and Khulna districts at the south, Narail and Khulna districts at the east, and West Bengal of India at the west. Major rivers that flow through this region are the Bhairab, Chitra, Betna, Kopotakkho, and the Mukteshwari.
+Climate
+
+Annual average temperature range from 9 to 41 °C (48 to 106 °F). The annual rainfall is 1,537 millimetres (60.5 in).
+Benapol Land Port
+
+The main factor of economics of Jessore is Benapol Land Port which is situated in Sharsha upajela. Much of the import and export trading between Bangladesh and India is done through this port. On the other side of the border is Petropool. The port is important for making govt. import taxes"
+        android:textSize="25sp"
+        android:textColor="#fff59d"
+        android:background="#455a64"
+        />
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  capital City of flowers"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Special food"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  famous wonders"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  tourism"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  points of interests"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Media"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Notable Residents"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+
+
+    </LinearLayout>
+    ></ScrollView>

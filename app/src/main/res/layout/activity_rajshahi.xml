@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Rajshahi ( historically Rampur Boalia; nicknamed Silk City) is a metropolitan city in Bangladesh and a major urban, commercial and educational centre of North Bengal. It is the administrative seat[note 1] of Rajshahi Division & Rajshahi District . Located on the north bank of the Padma River, near the Bangladesh-India border; the city has a population of over 763,952 residents.[3] The city is surrounded by satellite towns like Katakhali & Nowhata, which together build an urban agglomeration of about 1 million population.
+
+Modern Rajshahi lies in the ancient region of Pundravardhana. The foundation of the city dates to 1634, according to epigraphic records at the mausoleum of Sufi saint Hazrat Shah Makhdum. The area hosted a Dutch settlement in the 18th century.[4] The Rajshahi municipality was constituted during the British Raj in 1876. It was a divisional capital of the Bengal Presidency.
+
+Rajshahi is an important administrative, educational, cultural & business centre in Bangladesh today. It is a historic center of silk production. The city is home to the Varendra Research Museum. Rajshahi College is the third oldest college in Bangladesh after Dhaka College and Chittagong College. The University of Rajshahi is the second oldest and one of the largest public universities in the country. Rajshahi Engineering College ,now RUET was the second engineering college established in the then East Pakistan in 1964 (The first one was Ahsanullah Engineering College: now BUET).[5] The head office of Rajshahi Agricultural Development Bank and Barind Multipurpose Development Authority (BMDA) is situated in the city. Rajshahi is served by the Shah Makhdum Airport.
+
+CLIMATE
+
+Rajshahi has a tropical wet and dry climate. The climate of Rajshahi is generally marked with monsoons, high temperature, considerable humidity and moderate rainfall. The hot season commences early in March and continues till the middle of July. The maximum mean temperature observed is about 32 to 36 °C (90 to 97 °F) during the months of April, May, June and July and the minimum temperature recorded in January is about 7 to 16 °C (45 to 61 °F). The highest rainfall is observed during the months of monsoon. The annual rainfall in the district is about 1,448 millimetres (57.0 in).
+
+ECONOMY
+
+Apart from the usual agricultural products of Bangladesh, such as rice, wheat, potatoes and lentils, Rajshahi and its neighbouring regions are specially suited from various crops such as Mango, Lichi, Sugarcane, Potato, Tomato & Watermelon.In spite of being an important city and located on a riverbank, industrial development in Rajshahi has not taken place to any great extent. There is an Industrial Park in Rajshahi, which is now mainly home to industries producing products of the famous Rajshahi silk. Rajshahi is also home to number of jute mills, textile mills, sugar mill, pharmaceutical and mango based industries. Two 50 MW power plants have already been built at Katakhali to meet the growing electricity demand of the city."
+            android:textSize="25sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Silk city"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Special food"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  famous wonders"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  tourists spots"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  points of interests"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Media"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Notable Residents"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+
+    </LinearLayout>
+    ></ScrollView>

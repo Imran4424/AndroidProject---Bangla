@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:fillViewport="true">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#455a64"
+    android:layout_margin="10dp"
+    android:weightSum="1">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BACK"
+        android:onClick="home"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="CITY of SILK RAJSHAHI"
+        android:textSize="25sp"
+        android:textColor="#BDBDBD"
+        android:background="#455a64"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Silk is a natural protein fiber, some forms of which can be woven into textiles. The protein fiber of silk is composed mainly of fibroin and is produced by certain insect larvae to form cocoons. The best-known silk is obtained from the cocoons of the larvae of the mulberry silkworm Bombyx mori reared in captivity (sericulture). The shimmering appearance of silk is due to the triangular prism-like structure of the silk fibre, which allows silk cloth to refract incoming light at different angles, thus producing different colors.Rajshahi silk is the name given to the silk products produced in Rajshahi, Bangladesh. It is a famous name in the domain of clothing, especially in saris.
+
+The Rajshahi Division of northern Bangladesh is the hub of the country's silk industry. There are three types of silk produced in this region. Bengali silk was a major item of international trade for centuries. It was known as Ganges silk in medieval Europe. Bengal was the leading exporter of silk between the 16th and 19th centuries
+Rajshahi silk is a delicate and soft fibre produced from the cocoons of silkworms and is covered with a protein called sericin. There are mainly three varieties of silks.
+
+    -Mulberry silk
+    -Eri silk (Endi silk) and
+    -Tassar silk.
+
+Among these varieties, Mulberry silk is the finest and is therefore the most valuable.
+
+Saris and other products made out of Rajshahi silk are coveted by users in the country and in foreign countries. Rajshahi silk is available as fabric in colors and patterns for designers. Silk fabric is available in ranges for apparel and for other purposes.
+
+Rajshahi houses a number of silk industries and a Silk Research Institute. The region's sericulture accounts for almost the entire silk output of Bangladesh. Approximately 100,000 people are directly or indirectly employed in this sector.
+
+Shopura is the biggest Silk Mill in Rajshahi"
+        android:textSize="25sp"
+        android:textColor="#fff59d"
+        android:background="#455a64"
+        />
+
+</LinearLayout>
+></ScrollView>

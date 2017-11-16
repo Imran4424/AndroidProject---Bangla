@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="HOME MADE FAVOURITE FOOD"
+            android:textSize="30sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Kalai Ruti"
+            android:textSize="23sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text=" Kalai ruti is popular among the people of Rajshahi and nearby places. They love have this food.
+
+The Recipe of Kolai Ruti
+Ingredients:
+    1. rice flour about 3/4 cup
+    2. kalai dal/black gram/urid bean flour about 1/4 cup
+    3. quantity amount of water
+
+Procedure:
+    At first mix all the ingredients and then mix quantity amount of water and create hard dough. It should be harden more than ruti's flour. Make thik lared shape Ruti. Put little bit water in your hald palm and then make it round. After creating the shape quickly raise the heat of the crock and then put the ruti on the crock. Flip the ruti continuously on both sides until it's done. Then eat it with eggplant mash, pickles, tomato-onion salad etc.
+this food shoud be consumed when it is hot, and when it's hot it becomes hard so it should be consumed when it's hot."
+
+            android:textSize="28sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+
+    </LinearLayout>
+    ></ScrollView>

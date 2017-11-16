@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="WONDERS of KHULNA"
+            android:textSize="25sp"
+            android:textColor="#BDBDBD"
+            android:background="#455a64"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Khulna Mesuem-
+It is the Divisional Museum in Khulna, situated in the Shibbari Mor/KDA Avenue area at Khulna City. Established by the department of Archaeology in 1998, this museum mainly shows the different earthen and pottery samples. However, there is a gallery to display the mythological characters of Hinduism made by Black Basalt. Additionally, on the way of entrance, there is a photo gallery too to let people aware about the historical structures of Khulna Division. Some terracotta, toys made with clay and building tiles are also there to display.
+
+Ticket: All Bangladeshi citizens can get entry by paying 20 taka. For foreigners, it is 100 taka.
+
+Shaheed Minar-
+JHENIDAH, Feb 22: The biggest Shaheed Minar of Khulna division has been inaugurated here at the martyred freedom fighters’ memorial park premises at Chuadanga bus stand in Jhenidah.
+
+Shawon Mahmud, daughter of martyred Altaf Mahmud, the composer of the song “Amar Bhaiyer Rokte Rangano Ekushe February ---”, inaugurated the monument on Saturday.
+
+Md. Abdul Hye MP, President of the district Awami League was present as the chief guest on the occasion with Jhenidah municipality mayor Alhaj Saidul Karim Mintu in the chair.
+
+Advocate Abdul Wahed Zoarder, administrator of Jhenidah Zila Parishad, among others, attended the function as special guest.
+
+Due to lack of space in front of the central shaheed minar at the Shishu Park at the heart of Jhenidah town, people had to face difficulties to show respect to the language martyrs every year.
+
+The newly built shaheed minar involving Tk. 12 million in Jhenidah town, the local people think, will ease their trouble on the language martyred and international mother tongue day henceforth."
+            android:textSize="20sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+    </LinearLayout>
+    ></ScrollView>
+

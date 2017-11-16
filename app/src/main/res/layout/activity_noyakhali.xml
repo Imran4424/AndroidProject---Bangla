@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#455a64"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:onClick="home"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Noakhali (Bengali: নোয়াখালী জিলা) is a district in South-eastern Bangladesh. It is located in the Chittagong Division. Noakhali district, whose earlier name was Bhulua, was established in 1821. It was named Noakhali in 1868.
+
+Geography
+
+Noakhali District is bordered by Comilla district to the north, the Meghna estuary and the Bay of Bengal to the south, Feni and Chittagong districts to the east and Lakshmipur and Bhola district to the west. The district has an area of 4202 km2. The district represents an extensive flat, coastal and delta land, located on the tidal floodplain of the Meghna River delta, characterised by flat land and low relief. The area is influenced by diurnal tidal cycles and the tidal fluctuations vary depending on seasons, being pronounced during the monsoon season. Around Noakhali on three sides is an alluvial plain that is annually inundated and fertilised by silt deposits from the Meghna estuary. The swift currents that course down from the Himalayas bring a rich bath of fertile silt, when it reaches the Bay of Bengal, settles along the coast, gradually forming new land. The district of Noakhali has actually gained more than 28 square miles (73 km2) of land in the past 50 years and so on.
+
+Climate
+
+Noakhali has tropical climate and it has significant rainfall most months, with a short dry season. In Noakhali, the average annual temperature is 25.6 °C and the average annual rain fall is about 3302 mm. With an average of 33.6 °C, May is the warmest month. At 19.5 °C on average, January is the coldest month of the year. The driest month is January with 8 mm of precipitation. In July, the rainfall reaches its peak, with an average of 671 mm.
+
+River and Canal:
+
+    -Meghna
+    -Choto Feni
+    -Bamni
+    -Noakhali Khal
+    -Mohendro Khal
+    -Dakatia Khal
+    -Chandraganj Khal
+
+Language
+
+The people of this district speaks in an informal Bangla dialect. Linguistically, it is connected to the districts of Feni and Lakshmipur as well as southern parts of the district of Comilla and Mirasarai Upazila of Chittagong district. Indian nationals of Tripura State also speak this simplified Bangla dialect.It is used as the lingua franca among the Indians of South Tripura District and it is also widely spoken in Gomati District & Sepahijala District of Tripura. Noakhali dialect is also understood & spoken by indigenous Tripuri Tribe & also Chakma,Mog(Marma),Reang etc.It is widely spoken in the places of Tripura namely Belonia, Manurmukh, Sabroom, Santirbazar,Joalibari,Baikhora,Kathalia,Barpathari,Trishna,Chandrapur,Garjee,Hrishyamukh,Satchand,Karbook,Natunbazar,Birchandra Manu,Rajnagar etc. Belonia is the Headquarter of South Tripura District which consists of three subdivisions namely Belonia, Santirbazar & Sabroom.
+
+Noakhali dialect does not have any recognised grammar recording. There is no formal use of Noakhali dialect in public, in courts, or in legislature like the existent standard Bangla. It stays as the language of the people of Greater Noakhali region of Bangladesh. The educated, elite, political and influential groups of Bangladesh bearing Noakhali homogeneity or being intrinsically exposed to the socio-cultural phenomenon of Noakhali usually prefer the standard form of Bangla for their wider communication and keep this dialect as their private means of linguistic exchange only with the members of the indigenous community of Noakhali."
+            android:textSize="25sp"
+            android:textColor="#fff59d"
+            android:background="#455a64"
+            />
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Special food"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  famous wonders"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  tourists spots"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  points of interests"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Media"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+        <Button
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  Notable Residents"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="#E0E0E0"
+            android:background="#455a64"
+            android:id="@+id/stop"/>
+
+
+    </LinearLayout>
+    ></ScrollView>
